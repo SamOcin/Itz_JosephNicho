@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Button onclick</title>
+</head>
+<body>
+
+<h1>Tombol onclick</h1>
+
+<button id="tombolKlik" onclick="tombolDiklik()">Klik Saya</button>
+
+<p id="teksHasil">Tekan tombol di atas.</p>
+
+<script>
+    // Fungsi yang akan dijalankan saat tombol diklik
+    function tombolDiklik() {
+        // Mengubah teks pada elemen p dengan id "teksHasil"
+        document.getElementById("teksHasil").innerHTML = "Tombol telah diklik!";
+    }
+</script>
+
+</body>
+</html>
