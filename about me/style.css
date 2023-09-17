@@ -5,7 +5,8 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 li {
-    font-size: 16px;
+    font-size: 100px;
     color: aqua;
-    align-items: center;
+    text-align: center;
+    list-style: none;
 }
