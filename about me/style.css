@@ -15,3 +15,12 @@ li {
     text-align: center;
     font-weight: bold;
 }
+.dalem {
+    width: 100px; /* Lebar kotak (sesuaikan sesuai kebutuhan) */
+    border: 1px solid black; /* Garis tepi tabel */
+    border-collapse: collapse;
+}
+.tabel {
+    padding: 50px;
+    text-align: justify;
+}
