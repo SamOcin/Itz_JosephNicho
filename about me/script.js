@@ -8,3 +8,4 @@ function updateWaktu() {
 }
 
 setInterval(updateWaktu, 1000);
+
