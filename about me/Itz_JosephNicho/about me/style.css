@@ -1,0 +1,17 @@
+body {
+    background-color: khaki;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li {
+    font-size: 100px;
+    color: rgb(207, 58, 21);
+    list-style: none;
+}
+.jam {
+    font-size: 30px;
+    color:color-mix(in srgb-linear, color percentage, color percentage);
+    text-align: center;
+    font-weight: bold;
+}
